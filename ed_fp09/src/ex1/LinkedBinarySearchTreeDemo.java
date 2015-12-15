@@ -24,7 +24,7 @@ public class LinkedBinarySearchTreeDemo {
         String s4 = "d";
         String s5 = "e";
         
-        System.out.println("testing branching");
+        
         
         
         
